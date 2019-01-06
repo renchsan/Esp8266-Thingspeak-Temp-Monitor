@@ -15,6 +15,7 @@ DHT-22 Temp/Humidity Sensor
 <a target="_blank" href="https://www.amazon.com/gp/product/B073F472JL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B073F472JL&linkCode=as2&tag=renchtech-20&linkId=5f7ea4cac55a2035341956f71b3a68b2">DHT22 Temperature Humidity Sensor Module Digital Measurement for Arduino Raspberry Pi 2 3 - 2 PCS </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=renchtech-20&l=am2&o=1&a=B073F472JL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
+![sensor01](https://res.cloudinary.com/dvryuqlqn/image/upload/v1536811208/renchtech/projects/temphumid_sensor/IMG_5000.jpg)
 
-
+![sensor02](https://res.cloudinary.com/dvryuqlqn/image/upload/v1536811208/renchtech/projects/temphumid_sensor/IMG_5001.jpg)
 ![fritz_circuit_001](https://user-images.githubusercontent.com/36056268/37439274-c5ecc9fe-27cd-11e8-93bc-ef346ed8f31a.JPG)
